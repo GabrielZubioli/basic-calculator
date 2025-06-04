@@ -12,3 +12,6 @@ docker run -p 8080:8080 calculadora
 
 # Acesse no navegador
 http://localhost:8080
+
+# Para acessar sem o uso localHost
+https://gabrielzubioli.github.io/basic-calculator/
